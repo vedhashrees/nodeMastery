@@ -1,0 +1,24 @@
+{
+  "name": "nodemastery",
+  "version": "1.0.0",
+  "description": "Node Mastery Home Assignments for learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedhashrees/nodeMastery.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Learning",
+    "tutorial"
+  ],
+  "author": "Vedhashree Sampath <vsampath@hidglobal.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedhashrees/nodeMastery/issues"
+  },
+  "homepage": "https://github.com/vedhashrees/nodeMastery#readme"
+}
